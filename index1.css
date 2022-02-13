@@ -127,6 +127,8 @@ display:flex;
 
 #N{
 	font-size:50px;
+	color:#0a2e65;
+
 }
 
 #Np{
@@ -134,7 +136,7 @@ margin-left:150px;
 }
 
 #inner-box2{
-	background: brown;
+	background:;
 	width:100%;
 	height:400px;
 }
@@ -158,37 +160,117 @@ margin-left:150px;
 
 #inner-container{
 	display:flex;
-	background:yellow;
+	background:;
 	width:100%;
 	height:200px;
 }
 
 #pair{
-	background:grey;
+	background:#ffe6eb;
 	height:100%;
 	width:230px;
 	margin-right:30px;
 	margin-left:40px;
+	border-radius: 8px;
+	border:1px solid #ffe6eb;
 }
 
+
 #pair1{
-background:grey;
+background:#ffff;
 	height:100%;
 	width:230px;
-	margin-right:30px;	
+	margin-right:30px;
+	border-radius: 8px;	
+	border:1px solid grey;
 }
 
 #pair2{
-	background:grey;
+	background:#ffff;
 	height:100%;
 	width:230px;
 	margin-right:100px;
+	border-radius: 8px;
+	border:1px solid grey;
 }
 
 #lone{
-	background:grey;
+	background:#0066f5;
 	height:100%;
 	width:290px;
 	margin-right:20px;
 	border-radius: 8px;
 }
+
+#money{
+	color:#0a2665;
+	font-size:25px;
+	margin-left: 20px;
+}
+
+.money1{
+	margin-left: 20px;
+	color:#0a2e6599;
+	margin-top:-10px;
+
+}
+
+#money1{
+	color:#03297c;
+	margin-top: 50px;
+}
+
+.img{
+	height:50px;
+	margin-left:20px;
+	padding-top:25px;
+
+}
+
+#img{
+	height:70px;
+	margin-left:20px;
+	margin-top:20px;
+
+}
+
+.um{
+margin-left: 20px;
+	color:#03297c;
+	margin-top:72px;
+
+}
+
+#inum{
+margin-top:-18px;	
+margin-left: 20px;
+color:#03297c;
+}
+
+.pgift{
+	color:white;
+	margin-left: 27px;
+
+}
+
+#total{
+	color:#0066f5;
+}
+
+#port{
+	color:#0a2656;
+}
+
+#₦{
+color:#0a2e65;
+
+}
+
+#sub{
+	color:#0a2e65;
+}
+
+#Np{
+	color:#0a2e6599;
+}
+
